@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+}
+.one{
+    background-color: #1f2937;
+    height: 400px;
+}
+.header{
+   display: flex;
+}
+
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+a:link{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 130px;
+    
+}
+.logo{
+    color: white;
+    margin: 17px;
+    flex-grow: 1;
+    margin-left: 200px;
+}
+.main{
+    height: 300px;
+    display: flex;
+    margin: 10px;
+}
+.main-text{
+    height: 250px;
+    flex: 1;
+    margin-left: 160px;
+    
+}
+.heading{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin-top: 0;
+    padding: 10px;
+    margin-bottom: 0;
+}
+.text{
+    font-size: 18px;
+    color: #f9faf8;
+    padding: 10px;
+    margin-top: 0;
+}
+.signup-btn{
+    padding: 10px;
+    margin-left: 8px;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 8px;
+    color: #f9faf8;
+}
+.main-img{
+    flex: 1;
+    height: 250px;
+    width: 400px;
+    margin: 10px;
+    margin-left: 300px;
+}
+
+h2{
+    margin-left: 550px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.card{
+    flex: 1;
+}
+.img1{
+    margin-left: 300px;
+}
+.img2{
+    margin-left: 70px;
+}
+.img3{
+    margin-left: 50px;
+}
+.img4{
+    margin-right: 300px;
+}
+.three{
+    height: 300px;
+    background-color: #e5e7eb;
+}
+.quote{
+    font-size: 36px;
+    font-style:italic;
+    color: #1f2937;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-top: 120px;
+}
+.author{
+    padding-left: 1000px;
+    margin: 0;
+    padding-bottom: 50px;
+    font-size: medium;
+    font-weight: bold;
+}
+.four{
+    height: 300px;
+}
+.four-item{
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 8px;
+    background-color: #3882f6;
+}
+.call-text{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #e5e7eb;
+}
+.signup-txt{
+    color: #e5e7eb;
+}
+.txt{
+    padding-left: 120px;
+    padding-top: 60px;
+}
+.signup-btn2{
+    display:inline-block;
+   margin-left: 600px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 45px;
+   padding-right: 45px;
+   background-color: #3882f6;
+   color: #e5e7eb;
+   border: 2px solid #e5e7eb;
+   border-radius: 8px;
+}
+.five{
+    height: 70px;
+    background-color: #1f2937;
+}
+.copyright-txt{
+    color: #e5e7eb;
+    padding-left: 600px;
+    padding-top: 35px;
+}
